@@ -78,3 +78,4 @@ hystrix:
         isolation:
           thread:
             timeoutInMilliseconds: 60000
+  test
